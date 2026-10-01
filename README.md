@@ -4,8 +4,8 @@ Juego web con tres opciones: **carrera de rutas** (contra un rival, con cualquie
 
 ## Integrantes
 
-- Integrante 1: _(escribe tu nombre)_
-- Integrante 2: _(escribe tu nombre)_
+- Integrante 1: Nashla Fernandez 
+- Integrante 2: Aida Manzueta
 
 ## Descripción funcional
 
