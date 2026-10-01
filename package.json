@@ -1,0 +1,12 @@
+{
+  "name": "kawaii-transit-race",
+  "version": "1.0.0",
+  "description": "KawaiiTransito: juego de carreras de rutas y trivia vial (frontend + API)",
+  "type": "module",
+  "scripts": {
+    "setup": "npm --prefix backend install",
+    "start": "node start-all.mjs",
+    "test": "npm --prefix frontend test && npm --prefix backend test",
+    "check": "node check-quality.mjs"
+  }
+}
